@@ -44,7 +44,7 @@ Comparte tus observaciones, lo aprendedido, limitaciones y siguientes pasos.
 ### Equipo
 
 * Angel Manuel Rodriguez Quintal
-* Estudiante 2
-* Estudiante 3
-* Estudiante 4
+* Amelia Lopez Albores
+* Carla Margarita Barrera Cervantes
+* Joshua Israel Acevedo Mazas
 
