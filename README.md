@@ -43,7 +43,7 @@ Comparte tus observaciones, lo aprendedido, limitaciones y siguientes pasos.
  
 ### Equipo
 
-* Estudiante 1
+* Angel Manuel Rodriguez Quintal
 * Estudiante 2
 * Estudiante 3
 * Estudiante 4
