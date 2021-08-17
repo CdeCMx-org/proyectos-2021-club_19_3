@@ -47,5 +47,4 @@ Comparte tus observaciones, lo aprendedido, limitaciones y siguientes pasos.
 * Angel Manuel Rodriguez Quintal
 * Amelia Lopez Albores
 * Carla Margarita Barrera Cervantes
-* Joshua Israel Acevedo Mazas
-*prueba
+* Joshua Israel Acevedo Mazas 1
