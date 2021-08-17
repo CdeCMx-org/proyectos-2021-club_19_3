@@ -7,7 +7,8 @@ El URL generado de tu página lo puedes encontrar en Settings -> Pages.
 *Puedes ver los cambios reflejados en la página, solo toma en cuenta que puede tomar unos minutos en cambiar.*
 
 ### Introducción
-
+   El problema que vamos que queremos arbordar es conocer qué tan frecuente es el consumo de productos pesqueros en los jovenes.
+   Es importante porque muchos de los jovenes descuidan su alimentancion y no varian sus alimentos, se ha demostrado que al menos comer una vez a la semana de pescado o algun otro alimento de origen marino puede ser benefecioso para la salud
 Describe de qué trata tu proyecto:
 * ¿qué problema vas a abordar?
 * ¿porqué es importante?
