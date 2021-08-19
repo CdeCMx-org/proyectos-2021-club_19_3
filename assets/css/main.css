@@ -73,6 +73,10 @@ input, select, textarea {
 	appearance: none;
 }
 
+#imgostion {
+	padding: 20px;
+}
+
 /* Row */
 
 	.row {
