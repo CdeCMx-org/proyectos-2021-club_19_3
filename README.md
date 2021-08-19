@@ -7,17 +7,31 @@ El URL generado de tu página lo puedes encontrar en Settings -> Pages.
 *Puedes ver los cambios reflejados en la página, solo toma en cuenta que puede tomar unos minutos en cambiar.*
 
 ### Introducción
-   El problema que vamos que queremos arbordar es conocer qué tan frecuente es el consumo de productos pesqueros en los jovenes.
-   Es importante porque muchos de los jovenes descuidan su alimentancion y no varian sus alimentos, se ha demostrado que al menos comer una vez a la semana de pescado o algun otro alimento de origen marino puede ser benefecioso para la salud
-Describe de qué trata tu proyecto:
-* ¿qué problema vas a abordar?
-* ¿porqué es importante?
-* ¿cómo se relaciona con la **ODS** asignada a tu club? 
-* ¿cómo se relaciona lo aprendido en tu club para resolver el problema que planteaste?
+   El problema que abordaremos es el consumo de productos pesqueros en los jóvenes y adultos que tienen poder adquisitivo (grupo de edad de 20 a 50 años). 
+   La forma en que éste se relaciona con la **ODS 12 (producción y consumo reponsable)** es que las personas **aprendan a consumir de forma responsable con su salud y con el ambiente**. 
+   Como se sabe, en la población mexicana de 20 años o más, 42% de los hombres y 37% de las mujeres tienen sobrepeso (datos del INEGI del 2018), lo más alarmante de esto es que la tendencia va en aumento, lo cual es una evidencia de que no sabemos comer bien. Otro punto importante de la ODS 12 es la producción responsable y, aunque los consumidores no tenemos un papel directo en esta área sí podemos elegir qué consumimos. Es por eso que el proyecto también va enfocado a averiguar si las personas saben qué consumen y, al mismo tiempo, dar alternativas sustentables para el consumo de productos pesqueros.
+ Los objetivos son los siguientes:
+-	**Conocer** qué tan frecuente es el consumo de productos pesqueros, el tipo de producto se consume más (conserva, fresco o congelado) y el interés de la gente respecto a los beneficios del consumo de productos pesqueros.
+-	Incentivar, mediante la **exposición de los beneficios**, el consumo de pescado.
+-	Dar a conocer las medidas más **sostenibles** de consumo de pescado.
+En este club 19 aprendimos sobre los _beneficios del consumo de pescado, moluscos y crustáceos y la **necesidad** de llevar una dieta balanceada_; queremos que este conocimiento no se quede aquí sino que se pueda **compartir para generar una cultura de comer bien**.
+Este tema realmente es importante, puesto que muchos personas descuidan su alimentanción (y muchas veces la de su familia también) y no varían sus alimentos. Con la implementación de este proyecto no sólo queremos crear conciencia sobre la problemática en nuestro país sino que también queremos ayudar a mejorar la calidad de vida de los mexicanos.
 
 ### Métodología
 
-Describe los pasos específicos que tomaste para realizar tu proyecto. Trata de hacer una descripción concreta y detallada. Si aplica, puedes incluir un diagrama describiendo el procedimiento. 
+Se realizó una encuesta a personas mexicanas:
+1.- ¿Con qué frecuencia consume pescado? (Respuestas: 1 vez a la semana/ vez cada 15 días/1 vez al mes/casi nunca/no consumo)
+2.- En dado caso de que su consumo no sea tan frecuente, ¿cuáles son las razones por las que no lo hace?
+3.- ¿En qué presentación come el pescado? Seleccione las que correspondan. (Respuestas: fresco/conserva(enlatado/salmuera)/congelado)
+4.- ¿Conoce los beneficios de consumir pescado? (Respuestas:sí/no/no pero quisiera saber)
+5.-¿Sabe de dónde provienen los alimentos pesqueros que consume? (Respuestas: sí/no/no y no me interesa)
+
+Se hizo un análisis de datos con ayuda de Pandas en un google colab, los parámetros requeridos fueron:
+- media de consumo de pescado
+- tipo de presentación
+- edad donde más se consume pescado
+- si el interés es nulo o si existe en cuanto a la fuente de los alimentos y sobre sus beneficios
+
 
 ### Resultados
 
