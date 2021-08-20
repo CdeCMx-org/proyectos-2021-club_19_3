@@ -36,6 +36,7 @@ Se hizo un análisis de datos con ayuda de Pandas en un google colab, los parám
 ### Resultados
 
 Este es el momento en que nos compartas los resultados obtenidos en tu proyecto. Asegurate de incluir material visual (gráficas, fotos, diagramas, tablas). 
+En Este colab se uso para ver los datos y arrojar las graficas que se mostraran a continuacion:https://colab.research.google.com/drive/1vKjs0Oa7DvlYdBv2cffxPsjThkvqqSei?usp=sharing 
 
 Puedes inster imagenes utilizando Markdown `![](Logo_CdeCMx.png)`.
 
