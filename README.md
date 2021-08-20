@@ -19,7 +19,7 @@ Este tema realmente es importante, puesto que muchos personas descuidan su alime
 
 ### Métodología
 
-Se realizó una encuesta a personas mexicanas:
+Se realizó una encuesta a personas mexicanas, de 15 a 43 años. Las preguntas fueron las siguientes:
 1.- ¿Con qué frecuencia consume pescado? (Respuestas: 1 vez a la semana/ vez cada 15 días/1 vez al mes/casi nunca/no consumo)
 2.- En dado caso de que su consumo no sea tan frecuente, ¿cuáles son las razones por las que no lo hace?
 3.- ¿En qué presentación come el pescado? Seleccione las que correspondan. (Respuestas: fresco/conserva(enlatado/salmuera)/congelado)
@@ -27,11 +27,14 @@ Se realizó una encuesta a personas mexicanas:
 5.-¿Sabe de dónde provienen los alimentos pesqueros que consume? (Respuestas: sí/no/no y no me interesa)
 
 Se hizo un análisis de datos con ayuda de Pandas en un google colab, los parámetros requeridos fueron:
-- media de consumo de pescado
-- tipo de presentación
-- edad donde más se consume pescado
-- si el interés es nulo o si existe en cuanto a la fuente de los alimentos y sobre sus beneficios
-
+- rango de edad de la encuesta, para ubicar a nuestros encuestados
+- promedio de edad del grupo, para saber cómo se debe de promover el consumo (de forma más técnica o quizás más llamativa para jóvenes)
+- promedio de frecuencia del consumo, con base a un mes
+- número de consumidores habituales de productos pesqueros (quienes lo consumen al menos 1 vez al mes)
+- las personas que conocen los beneficios del consumo de pescado
+- número de consumidores que conocen los beneficios de su consumo
+- número de consumidores habituales que consumen pescado fresco sólo o en adición con otras presentaciones de pescado
+- personas que saben de dónde provienen los alimentos pesqueros que consumen (se hizo una división entre personas "normales" y los consumidores habituales)
 
 ### Resultados
 
