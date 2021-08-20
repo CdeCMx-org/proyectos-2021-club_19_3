@@ -8,7 +8,6 @@ Edad,Frecsem,Presentacion,conocebeneficios,conoceprocedencia
 24,2,Pescado fresco,si,si
 21,0,Pescado fresco,si,No
 19,1,Pescado fresco,No pero quisiera saber,No
-57,2,Pescado fresco,si,No
 21,0,"Pescado fresco, Pescado congelado, En conserva (latas, salmuera, tipo surimi)",No pero quisiera saber,si
 16,0,"En conserva (latas, salmuera, tipo surimi)",si,si
 20,4,Pescado fresco,si,si
@@ -68,7 +67,6 @@ Edad,Frecsem,Presentacion,conocebeneficios,conoceprocedencia
 20,1,"Pescado fresco, Pescado congelado",si,si
 24,2,Pescado congelado,si,No
 39,0,"En conserva (latas, salmuera, tipo surimi)",No,si
-62,2,Pescado fresco,si,si
 17,1,Pescado fresco,si,No
 26,4,Pescado fresco,No pero quisiera saber,No
 19,0,"En conserva (latas, salmuera, tipo surimi)",No pero quisiera saber,No y no me interesa
@@ -114,4 +112,3 @@ Edad,Frecsem,Presentacion,conocebeneficios,conoceprocedencia
 20,0,Pescado fresco,No pero quisiera saber,si
 19,2,"En conserva (latas, salmuera, tipo surimi)",si,si
 24,1,Pescado fresco,si,No
-53,1,Pescado congelado,si,No
