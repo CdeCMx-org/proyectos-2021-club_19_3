@@ -7,7 +7,7 @@ El URL generado de tu página lo puedes encontrar en Settings -> Pages.
 *Puedes ver los cambios reflejados en la página, solo toma en cuenta que puede tomar unos minutos en cambiar.*
 
 ### Introducción
-   El problema que abordaremos es el consumo de productos pesqueros en los jóvenes y adultos que tienen poder adquisitivo (grupo de edad de 20 a 50 años). 
+   El problema que abordaremos es el consumo de productos pesqueros en los jóvenes y adultos que tienen poder adquisitivo (grupo de edad de 15 a 43 años). 
    La forma en que éste se relaciona con la **ODS 12 (producción y consumo reponsable)** es que las personas **aprendan a consumir de forma responsable con su salud y con el ambiente**. 
    Como se sabe, en la población mexicana de 20 años o más, 42% de los hombres y 37% de las mujeres tienen sobrepeso (datos del INEGI del 2018), lo más alarmante de esto es que la tendencia va en aumento, lo cual es una evidencia de que no sabemos comer bien. Otro punto importante de la ODS 12 es la producción responsable y, aunque los consumidores no tenemos un papel directo en esta área sí podemos elegir qué consumimos. Es por eso que el proyecto también va enfocado a averiguar si las personas saben qué consumen y, al mismo tiempo, dar alternativas sustentables para el consumo de productos pesqueros.
  Los objetivos son los siguientes:
