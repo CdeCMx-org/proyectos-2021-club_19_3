@@ -1574,6 +1574,10 @@ input, select, textarea {
 			float: left;
 			margin: 0 2em 2em 0;
 		}
+		.image.right {
+			float: right;
+			margin: 0 2em 2em 0;
+		}
 
 		.image.centered {
 			display: block;
@@ -2010,8 +2014,8 @@ input, select, textarea {
 					-webkit-flex-shrink: 0;
 					-ms-flex-shrink: 0;
 					flex-shrink: 0;
-					width: 17em;
-					height: 100%;
+					width: 10em;
+					height: 87%;
 				}
 
 					#main > .panel.intro .pic:before {
@@ -2019,7 +2023,7 @@ input, select, textarea {
 						position: absolute;
 						top: 0;
 						left: 0;
-						background:
+						background: 0;
 						width: 100%;
 						height: 100%;
 						z-index: 1;
@@ -2120,7 +2124,7 @@ input, select, textarea {
 						}
 
 						#main > .panel.intro header {
-							padding-: 4em;
+							padding: 4em;
 							text-align: center;
 						}
 
