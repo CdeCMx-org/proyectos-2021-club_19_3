@@ -38,8 +38,34 @@ Se hizo un análisis de datos con ayuda de Pandas en un google colab, los parám
 
 ### Resultados
 
-Este es el momento en que nos compartas los resultados obtenidos en tu proyecto. Asegurate de incluir material visual (gráficas, fotos, diagramas, tablas). 
-En Este colab se uso para ver los datos y arrojar las graficas que se mostraran a continuacion:https://colab.research.google.com/drive/1vKjs0Oa7DvlYdBv2cffxPsjThkvqqSei?usp=sharing 
+Este es el momento en que nos compartas los resultados obtenidos en tu proyecto. Asegurate de incluir material visual (gráficas, fotos, diagramas, tablas).
+
+Un dato de interés es conocer el rango de edad, planeado para jóvenes y adultos. Los resultados arrojan que las personas encuestadas son de 15 a 43 años. El promedio de edad es de 21 años, así que nos encontramos con un grupo bastante joven de personas; casi todas de nuestra edad.
+El promedio de consumo es de 2 veces por mes (1.85), es decir, 1 vez cada 15 días. Lo cual no está tan mal según lo que aprendimos en el club, aunque sí se debe de fomentar, ya que lo ideal es comer 1 vez por semana.
+De igual interés son las razones por las cuales no se consume, dichos datos se leyeron en forma personal y se analizaron en una discusión grupal; las razones se expondrán en el página web.
+El número de personas que sí conoce los benficios de comer pescado es de: 79. Si se hace la resta, (113-79=34), 34 personas no conocen los beneficios de consumir productos pesqueros. Traducido a pocentaje es el 30% de encuestados que no conoce los beneficios.
+Los consumidores habituales encontrados en una densidad de 113 encuestados es de 86 personas.
+Dentro de los consumidores habituales se nos hizo de interés conocer cuántos
+- conocen los beneficios
+- consumen pescado fresco
+
+Tomando el total de 86, vemos que
+- 63 consumidores habituales conocen los beneficios (73.3%)
+- 70 consumidores habituales consumen pescado fresco (81.4%)
+
+
+Otro punto a analizar fue el conocimiento de la procedencia de los alimentos pesqueros. Este se hizo tanto con el público en general de la encuesta como con los consumidores habituales debido a que
+- las personas debemos de saber de dónde provienen los alimentos, independientemente de si los consumimos o no, para poder orientar a nuestros familiares o amigos acerca de las  mejores opciones de consumo y poder llegar a hacer conciencia colectiva
+- con los consumidores, es un tanto obvio, el poder elegir bien qué cosa compramos y qué tipo de comercio y producción estamos propiciando (aunque claro, la responsabilidad de que haya sobrepesca no recae en una sola persona o un sólo grupo, es algo mucho más complejo, pero podemos empezar por acá)
+Los resultados fueron:
+- Sólo 61 personas encuestadas conocen de dónde provienen los alimentos (53%)
+- 46 consumidores habituales conocen la procedencia (53%)
+
+Cuando estábamos dándole una ojeada a los resultados, nos sorprendió ver que habían contestado "no y no me interesa" en la parte de "procedencia", así que decidimos analizar la postura de esa persona (más que nada para saber cómo poder hacer que sí le interesara) y nos dimos cuenta de que su consumo es 0 (no consume) así que no nos alarmó tanto la respuesta, ya que es algo que puede intuirse.
+
+
+En este colab se pueden ver los datos y las gráficas que programamos: https://colab.research.google.com/drive/1vKjs0Oa7DvlYdBv2cffxPsjThkvqqSei?usp=sharing 
+
 
 Puedes inster imagenes utilizando Markdown `![](Logo_CdeCMx.png)`.
 
