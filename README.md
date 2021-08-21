@@ -84,7 +84,6 @@ Comparte tus observaciones, lo aprendedido, limitaciones y siguientes pasos.
  
 ### Equipo
 
-* Angel Manuel Rodriguez Quintal
-* Amelia Lopez Albores
+* Ángel Manuel Rodríguez Quintal
+* Amelia López Albores
 * Carla Margarita Barrera Cervantes
-* Joshua Israel Acevedo Mazas
