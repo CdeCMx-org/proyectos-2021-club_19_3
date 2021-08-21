@@ -68,6 +68,7 @@ En este colab se pueden ver los datos y las gráficas que programamos: https://c
 
 ![](GraficaEdad.jpg)
 ![](GraficaPescadoFresco.jpg)
+<img src="GraficaEdad.jpg" width=200>
 
 
 
