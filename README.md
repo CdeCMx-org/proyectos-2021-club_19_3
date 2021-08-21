@@ -59,8 +59,8 @@ Cuando estábamos dándole una ojeada a los resultados, nos sorprendió ver que 
 
 En este colab se pueden ver los datos y las gráficas que programamos: https://colab.research.google.com/drive/1vKjs0Oa7DvlYdBv2cffxPsjThkvqqSei?usp=sharing 
 
-<img src="images/GraficaEdad.jpg" width=900>
-<img src="images/GraficaPescadoFresco.jpg" width=900>
+<img src="images/graphics/GraficaEdad.jpg" width=900>
+<img src="images/graphics/GraficaPescadoFresco.jpg" width=900>
 
 
 
