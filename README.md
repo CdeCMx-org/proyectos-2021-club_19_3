@@ -66,13 +66,9 @@ Cuando estábamos dándole una ojeada a los resultados, nos sorprendió ver que 
 
 En este colab se pueden ver los datos y las gráficas que programamos: https://colab.research.google.com/drive/1vKjs0Oa7DvlYdBv2cffxPsjThkvqqSei?usp=sharing 
 
+![](GraficaEdad.jpg)
+![](GraficaPescadoFresco.jpg)
 
-Puedes inster imagenes utilizando Markdown `![](Logo_CdeCMx.png)`.
-
-![](Logo_CdeCMx.png)
-
-O utilizando codigo html `<img src="Logo_CdeCMx.png" width=200>`, la ventaja de utilizar html es que le puedes modificar el tamaño utilizando **width**.
-<img src="Logo_CdeCMx.png" width=200>
 
 
 ### Conclusiones
