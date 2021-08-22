@@ -65,15 +65,18 @@ En este colab se pueden ver los datos y las gráficas que programamos: https://c
 
 
 ### Conclusiones
+-En general, los datos encontrados son bastante “buenos”, la gente está medianamente informada de lo que consume y sus beneficios. Esta cifra de conocimiento aún no es lo suficientemente alta, ya que ronda apenas el 70% en consumidores frecuentes. Esta es la oportunidad de poder divulgar lo que vimos a lo largo del club 19.
 
-Comparte tus observaciones, lo aprendedido, limitaciones y siguientes pasos. 
+-La mayoría de los consumidores habituales consumen pescado fresco, lo cual también es positivo, debido a que es el que mejor calidad de nutrientes tiene. Aunque los resultados son alentadores, aún hace falta bastante información, sobre todo en el área del conocimiento de “¿de dónde viene lo que comemos?”.
 
-### Video
- 1. Para insertar un video de YouTube, en la página de YouTube del video selecciona compartir y selecciona el código de html.
- <iframe width="560" height="315" src="https://www.youtube.com/embed/PLj1-CMNERM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- 
- 2. Insertar el link de tu video en YouTube, [nuestro video](https://youtu.be/rmXvlBPq24Q).
- 4. Puedes subir el archivo de tu video directamente a Github [instrucciones aquí](https://stackoverflow.com/questions/4279611/how-to-embed-a-video-into-github-readme-md)
+-Fue gratificante encontrar casi ninguna respuesta apática respecto a este punto.
+
+-Un poco alarmante fue el hecho de encontrar varias especies que no deben consumirse según la guía de la WWF, es importante hacer algo al respecto para proteger los recursos marinos.
+
+-Como hemos estudiado a lo largo de 3 semanas, el consumo de pescado, moluscos y crustáceos es muy favorable, incluirlo en nuestra dieta es una muy buena decisión.
+
+El poder acercarnos a la opinión y vivencia de la gente amplía el panorama que ya teníamos sobre su consumo y nos da ciertas pautas para poder aplicar el conocimiento adquirido. Sin duda el proyecto no acaba acá y será tarea nuestra hacer conciencia sobre el consumo responsable de tan preciado recurso.
+
  
 ### Equipo
 
