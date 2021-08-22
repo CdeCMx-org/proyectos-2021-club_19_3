@@ -72,7 +72,7 @@ Posterior al análisis de datos, se buscaron en la página de la WWF algunas rec
 Así mismo, la WWF expone una guía de bolsillo del consumo responsable ¡no todo el pescado es sostenible! Y claro, dependiendo la zona en donde se esté ubicado, es 
 el tipo de pescado que se recomienda consumir. Ahí se resume todo y es muy práctico, México se encuentra en la zona 77 y 31. En general, se recomienda consumir albacora (curricán) y esturión. No se recomiendan varias especies, sobre todo albacora (palangre de superficie), atún listado (cacea, cerco asociado a cardumen libre y cerco con FAD), atún patudo (cerco con FAD y palangre de superficie), langosta (nasas, nasas, a mano, enmalle y arrastre ).
 (Los términos entre paréntesis se refiere a los métodos de pesca).
-<img src="images/resources/LogosPescaBuena.jpg" width=900>
+<img src="images/resources/LogosPescaBuena.png" width=900>
 
 
 ### Conclusiones
