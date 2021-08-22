@@ -61,7 +61,18 @@ En este colab se pueden ver los datos y las gráficas que programamos: https://c
 
 <img src="images/graphics/GraficaEdad.jpg" width=900>
 <img src="images/graphics/GraficaPescadoFresco.jpg" width=900>
+<img src="images/graphics/conocenbeneficios.jpg" width=900>
+<img src="images/graphics/GraficaProcedencia.jpg" width=900>
 
+Posterior al análisis de datos, se buscaron en la página de la WWF algunas recomendaciones para precisamente, tener un consumo responsable. Estas fueron las más importantes para nosotros: 
+- Buscar los sellos de que certifican la sostenibilidad de los productos que consumos: MSC en pesca salvaje y ASC en acuicultura (Figura 2).
+- Conocer más sobre los productos que se compran: dónde se pescan, cómo se capturan, qué flotas han emprendido acciones para asegurar su conservación…
+- Evitar pescado o marisco de procedencia desconocida, ya que pueden haber sido capturados ilegalmente.
+- Diversificar el consumo de pescados y mariscos, en cada estación del año cambia lo que el mar nos ofrece.
+Así mismo, la WWF expone una guía de bolsillo del consumo responsable ¡no todo el pescado es sostenible! Y claro, dependiendo la zona en donde se esté ubicado, es 
+el tipo de pescado que se recomienda consumir. Ahí se resume todo y es muy práctico, México se encuentra en la zona 77 y 31. En general, se recomienda consumir albacora (curricán) y esturión. No se recomiendan varias especies, sobre todo albacora (palangre de superficie), atún listado (cacea, cerco asociado a cardumen libre y cerco con FAD), atún patudo (cerco con FAD y palangre de superficie), langosta (nasas, nasas, a mano, enmalle y arrastre ).
+(Los términos entre paréntesis se refiere a los métodos de pesca).
+<img src="images/resources/LogosPescaBuena.png" width=900>
 
 
 ### Conclusiones
